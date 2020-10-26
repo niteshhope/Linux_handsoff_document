@@ -22,7 +22,25 @@
       * it should be in active state
       
  <img src="images./chronyd_status.PNG" height=200>
-     
+ 
+ 
+ ### Step 5– check our configuration is working or not   
+      * type chronyc 
+      * We will get chronyc command prompt 
+      
+ <img src="images./chronyc.PNG" height=200>
+ 
+ ### Step 6 On chronyc command prompt 
+      * Type Sources
+      *you will see the resposne from google server
+      
+ <img src="images./google_server_response.PNG" height=200>
+ 
+### Step 7 - if we see the reponse from step 6 our step is working fine
+      *  The End!!
+
+ 
+ 
 
 
  
