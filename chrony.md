@@ -1,6 +1,6 @@
 Chrony
-Purpose – Time Synchronization
-Package name – chronyd
+Purpose – Time Synchronization \n 
+Package name – chronyd \n 
 Config file  /etc /chrony.conf 
 Log file  /var/log/chrony
 Service – systemctl start /restart chronyd
