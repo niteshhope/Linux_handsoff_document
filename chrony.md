@@ -5,13 +5,13 @@
 * Log file -/var/log/chrony
 * Service – systemctl start /restart chronyd
 * Program  command – chronyc
-Step 1 -> Install the package : 
-     *  yum install -y chrony
-* Step 2   go to  /etc/chrony.conf file  add google server  address
-vi /etc/chrony.conf 
-add below line 
-server 8.8.8.8
-and save the file 
-adding image
+### Step 1 -> Install the package : 
 
-<img src="images./image.PNG" height=200>
+     *  yum install -y chrony
+
+### Step 2 -> Edit /etc/chrony.conf file  
+     * vi /etc/chrony.conf
+     * add server 8.8.8.8( google sever ) 
+     * save and exit
+     
+ <img src="images./adding google server.PNG" height=200>
