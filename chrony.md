@@ -13,4 +13,8 @@ add below line
 server 8.8.8.8
 and save the file 
 adding imange
-![](images./image.PNG)
+
+
+
+
+<img src="images./image.PNG" height=200>
