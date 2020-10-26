@@ -1,9 +1,5 @@
 Chrony
 Purpose – Time Synchronization
-
-
-
-
 Package name – chronyd \n 
 Config file  /etc /chrony.conf 
 Log file  /var/log/chrony
