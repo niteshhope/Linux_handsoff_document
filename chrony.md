@@ -1,10 +1,10 @@
- Chrony
-* Purpose – Time Synchronization
-* Package name – chronyd 
-* Config file - /etc /chrony.conf 
-* Log file -/var/log/chrony
-* Service – systemctl start /restart chronyd
-* Program  command – chronyc
+ # Chrony
+ * <b>Purpose </b> – <u> Time Synchronization </u> 
+ * Package name – chronyd 
+ * Config file - /etc /chrony.conf 
+ * Log file -/var/log/chrony
+ * Service – systemctl start /restart chronyd
+ * Program  command – chronyc
 ### Step 1 -> Install the package : 
       *yum install -y chrony
 
