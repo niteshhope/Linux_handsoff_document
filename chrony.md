@@ -6,7 +6,7 @@
  * Service – systemctl start /restart chronyd
  * Program  command – chronyc
 ### Step 1 -> Install the package : 
-      *yum install -y chrony
+      * yum install -y chrony
 
 ### Step 2 -> Edit /etc/chrony.conf file  
       * vi /etc/chrony.conf
