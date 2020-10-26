@@ -1,8 +1,8 @@
 Chrony
 Purpose – Time Synchronization
-Package name – chronyd \n 
-Config file  /etc /chrony.conf 
-Log file  /var/log/chrony
+Package name – chronyd 
+Config file - /etc /chrony.conf 
+Log file -/var/log/chrony
 Service – systemctl start /restart chronyd
 Program  command – chronyc
 
@@ -12,9 +12,6 @@ vi /etc/chrony.conf
 add below line 
 server 8.8.8.8
 and save the file 
-adding imange
-
-
-
+adding image
 
 <img src="images./image.PNG" height=200>
