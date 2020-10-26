@@ -11,7 +11,8 @@
 
 ### Step 2 -> Edit /etc/chrony.conf file  
      * vi /etc/chrony.conf
-     * add server 8.8.8.8( google sever ) 
-     * save and exit
+     * add server 8.8.8.8( google server address to get time synced in our server ) where all the server listed in file
      
  <img src="images./adding google server.PNG" height=200>
+ 
+ 
